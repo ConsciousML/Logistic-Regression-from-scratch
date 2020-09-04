@@ -1,8 +1,8 @@
-# Logistic-Regression-From-Scratch
+# Logistic-Regression-from-Scratch
 
 ## Objective
-The goal of this project is to teach and show how logistic regression works on real-world data.
-The logistic regression and polynomial regression is implemented from scratch using PyTorch on a diabetes dataset.
+The goal of this project is to implement Logistic Regression from scratch using Pytorch.
+The Logistic regression and Polynomial Logisitc Regression are trained on real-world diabetes data.
 
 ## Dataset
 The dataset used for this experiment can be found in the `data` folder.
