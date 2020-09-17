@@ -2,7 +2,7 @@
 
 ## Objective
 The goal of this project is to implement Logistic Regression from scratch using Pytorch.
-The Logistic regression and Polynomial Logisitc Regression are trained on real-world diabetes data.
+The Logistic regression and Polynomial Logistic Regression are trained on real-world diabetes data.
 
 ## Blog Post
 Please visit the [link](https://consciousml.github.io/blog/logistic-regression/polynomial-regression/diabetes/pytorch/from-scratch/2020/09/17/Logistic-Regression.html) to see the blog post associated to this repository.
